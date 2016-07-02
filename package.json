@@ -1,10 +1,4 @@
-{
-  "name": "Satdownloader",
-  "version": "0.0.0",
-  "description": "Sattelite imagery downloader.",
-  "main": "server.js",
-  "repository": "",
-  "author": "Adel Bena",
-  "dependencies": {
-  }
-}
+"scripts": {
+  "start": "node server.js"
+},
+"main": "server.js"
