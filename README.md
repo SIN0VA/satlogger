@@ -1,2 +1,2 @@
 # Satlogger
-I needed to cach/save sattelite imagery by scrapping a website, so I've made a script for it.
+Save sattelite imagery of a country in infrared or visible spectrum in a time period.
